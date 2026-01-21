@@ -1,7 +1,7 @@
 # 🐱 CSS Cat Painting
 ## 📸 Preview
 
-![CSS Cat Painting Preview](preview.png)
+![CSS Cat Painting Preview](cat_painting.png)
 
 
 This project is a **pure HTML and CSS illustration** of a cat, created without using images or SVGs.  
